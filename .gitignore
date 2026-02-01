@@ -1,4 +1,3 @@
-# Python
 __pycache__/
 *.py[cod]
 *$py.class
@@ -20,18 +19,15 @@ wheels/
 .installed.cfg
 *.egg
 
-# Jupyter Notebook
 .ipynb_checkpoints/
 *.ipynb
 
-# IDE
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
 
-# Environment
 .env
 .venv
 env/
@@ -40,7 +36,6 @@ ENV/
 env.bak/
 venv.bak/
 
-# Output files
 outputs/
 *.png
 *.pdf
@@ -54,11 +49,9 @@ outputs/
 *.h5
 *.hdf5
 
-# OS
 .DS_Store
 Thumbs.db
 
-# Keep the original dataset
 !data/salmon_diseases_2005_2024.csv
 .DS_Store
 .Rhistory
